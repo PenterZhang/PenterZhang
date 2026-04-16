@@ -77,7 +77,7 @@
 
 ## 🏆 成就展示
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PenterZhang&theme=tokyonight&row=1&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=PenterZhang&theme=tokyonight&row=1)
 
 ---
 
