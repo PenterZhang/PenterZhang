@@ -1,7 +1,7 @@
 # 👋 你好，我是 Peter (PenterZhang) | 高级 AI 代码搬运工 🏗️
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PenterZhang&label=访问量&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=PenterZhang&label=E8%AE%BF%20%E9%97%AE%20%E9%87%8F%20&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 > **“我不生产代码，我只是 AI 代码的搬运工。Prompt 写得好，下班没烦恼。”** 🤖🚛
@@ -18,25 +18,14 @@
 
 ### 🧰 技术工具箱 (Skills)
 
-#### 🎨 前端 & 桌面端 (Frontend & Desktop)
-![React](https://shields.io) 
-![Vue](https://shields.io) 
-![TypeScript](https://shields.io) 
-![Electron](https://shields.io) 
-![Bootstrap](https://shields.io) 
-![jQuery](https://shields.io)
+#### 🎨 前端 & 桌面端
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
-#### ⚙️ 后端 & 数据库 (Backend & DB)
-![Nodejs](https://shields.io) 
-![PHP](https://shields.io) 
-![Python](https://shields.io) 
-![MongoDB](https://shields.io) 
-![MySQL](https://shields.io)
+#### ⚙️ 后端 & 数据库
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
-#### 🚀 构建与工具 (DevOps & Tools)
-![Vite](https://shields.io) 
-![Webpack](https://shields.io) 
-![NPM](https://shields.io)
+#### 🚀 构建与工具
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ---
 
