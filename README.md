@@ -1,104 +1,73 @@
-<!-- ===================== 顶部 ===================== -->
+<!-- HEADER -->
+<h1 align="center">Hi 👋 I'm Peter</h1>
 
-# 👋 你好，我是 Peter（PenterZhang）
+<p align="center">
+  🧠 AI Code Recycler ｜ ⚡ TS + React Developer ｜ 🛠️ “高级搬运工”
+</p>
 
-> 🧠 AI 代码搬运工（高级搬运工😂）  
-> ⚙️ 前端工程师（TS / React / Vue 体系）  
-> 🎣 钓鱼爱好者｜代码与水面都喜欢观察
-
----
-
-## 🚀 关于我
-
-- 🔭 当前重点：**TypeScript + React + Next.js 项目开发**
-- 🧩 使用 AI 辅助开发，提高编码与重构效率
-- 🌱 深入前端工程化与状态管理体系设计
-- 🧠 对前端架构（状态流、组件拆分、性能优化）持续探索
-- 🎣 不写代码时：钓鱼 / 思考系统 / 看水发呆
-- 💬 欢迎交流：前端架构 / React生态 / AI开发工具链
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=500&lines=TypeScript+%7C+React+%7C+Next.js+%7C+AI+Tools;Building+things+by+recycling+AI+code;Always+learning+something+new" />
+</p>
 
 ---
 
-## ⚙️ 技术栈
+## ⚡ Tech Stack
 
-### 🎨 前端核心
+<p align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,pinia,redux,nodejs,python,tailwind,git,github,vite" />
 
----
-
-### 🧠 状态管理体系
-
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-ffd859?style=for-the-badge&logo=vue.js&logoColor=black)
-![Vuex](https://img.shields.io/badge/Vuex-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+</p>
 
 ---
 
-### ⚙️ 后端 & 数据库
+## 📊 GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🚀 工程化 & 工具链
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PenterZhang&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenterZhang&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-### 🖥️ 桌面端
+## 🔥 Contribution Streak
 
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
----
-
-## 📊 GitHub 数据统计
-
-| 📈 GitHub 状态 | 🧠 语言占比 |
-|---------------|-------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=PenterZhang&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenterZhang&layout=compact&theme=tokyonight) |
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PenterZhang&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🔥 活跃记录
+## 🐍 Contribution Snake
 
-![Streak](https://streak-stats.demolab.com?user=PenterZhang&theme=tokyonight)
-
----
-
-## 🏆 成就展示
-![trophy](https://github-readme-stats.vercel.app/api?username=PenterZhang&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PenterZhang/PenterZhang/output/snake.svg" />
+</p>
 
 ---
 
-## 🧭 我的理解
+## 🚀 Featured Projects
 
-> “前端不是堆技术，而是设计数据流与用户体验的系统工程。”
+<p align="center">
 
----
+<a href="https://github.com/PenterZhang">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PenterZhang&repo=your-project-1&theme=tokyonight"/>
+</a>
 
-## 🎣 工作之外
+<a href="https://github.com/PenterZhang">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PenterZhang&repo=your-project-2&theme=tokyonight"/>
+</a>
 
-- 🎣 钓鱼（让思维慢下来）
-- ☕ 思考架构与设计模式
-- 🧠 AI 工具链实验
-- 🔧 拆解复杂问题为可控模块
-
----
-
-## 📫 联系我
-
-- GitHub：[@PenterZhang](https://github.com/PenterZhang)
+</p>
 
 ---
 
-⭐ 如果你喜欢这个主页，可以点个 Star 支持一下～
+## 🧬 About Me
+
+```ts
+const peter = {
+  role: "Frontend Engineer",
+  stack: ["TypeScript", "React", "Vue", "Next.js"],
+  currentlyLearning: ["AI Engineering", "System Design"],
+  funFact: "AI code搬运工 😂",
+};
