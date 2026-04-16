@@ -1,7 +1,7 @@
 # 👋 你好，我是 Peter (PenterZhang) | 高级 AI 代码搬运工 🏗️
 
 <p align="left">
-  <img src="https://komarev.com" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=PenterZhang&label=访问量&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 > **“我不生产代码，我只是 AI 代码的搬运工。Prompt 写得好，下班没烦恼。”** 🤖🚛
