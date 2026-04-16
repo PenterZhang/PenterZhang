@@ -51,11 +51,11 @@
 <p align="center">
 
 <a href="https://github.com/PenterZhang">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PenterZhang&repo=your-project-1&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PenterZhang&repo=callStudentPro&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/PenterZhang">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PenterZhang&repo=your-project-2&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PenterZhang&repo=countUp.js&theme=tokyonight"/>
 </a>
 
 </p>
