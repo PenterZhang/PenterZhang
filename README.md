@@ -71,3 +71,21 @@ const peter = {
   currentlyLearning: ["AI Engineering", "System Design"],
   funFact: "AI code搬运工 😂",
 };
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PenterZhang&theme=tokyo-night"/>
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://github.com/PenterZhang">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
