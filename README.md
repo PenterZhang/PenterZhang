@@ -71,7 +71,7 @@ const peter = {
   currentlyLearning: ["AI Engineering", "System Design"],
   funFact: "AI code搬运工 😂",
 };
-
+```
 ---
 
 ## 📈 Activity Graph
