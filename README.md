@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=500&lines=TypeScript+%7C+React+%7C+Next.js+%7C+AI+Tools;Building+things+by+recycling+AI+code;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=700&lines=JavaScript+%7C+TypeScript+%7C+React+%7C+Vue;Next.js+%7C+Redux+%7C+Pinia;Webpack+%7C+npm+%7C+Frontend+Engineering" />
 </p>
 
 ---
