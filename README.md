@@ -45,7 +45,7 @@
 
 | **数据统计 (Stats)** | **语言占比 (Langs)** |
 | :---: | :---: |
-| ![Stats](https://vercel.app) | ![Top Langs](https://vercel.app) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PenterZhang&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenterZhang&layout=compact&theme=radical) |
 
 ---
 
