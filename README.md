@@ -1,3 +1,5 @@
+![snake](https://raw.githubusercontent.com/PenterZhang/PenterZhang/output/snake.svg)
+
 <!-- HEADER -->
 <h1 align="center">Hi 👋 I'm Peter</h1>
 
