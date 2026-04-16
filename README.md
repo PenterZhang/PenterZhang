@@ -1,32 +1,40 @@
-<!-- ===================== 顶部欢迎 ===================== -->
+<!-- ===================== 顶部 ===================== -->
 
 # 👋 你好，我是 Peter（PenterZhang）
 
 > 🧠 AI 代码搬运工（高级搬运工😂）  
-> ⚙️ 前端开发者（TS + React 方向）  
-> 🎣 钓鱼爱好者｜偶尔思考人生和 bug
+> ⚙️ 前端工程师（TS / React / Vue 体系）  
+> 🎣 钓鱼爱好者｜代码与水面都喜欢观察
 
 ---
 
 ## 🚀 关于我
 
-- 🔭 正在专注：**TypeScript + React 项目开发**
-- 🧩 喜欢用 AI 提升开发效率（代码搬运 + 重构优化）
-- 🌱 正在深入前端工程化与全栈能力
-- 🎣 不写代码的时候在钓鱼 / 发呆 / 想架构问题
-- 💬 欢迎交流：前端、系统设计、AI工具链
+- 🔭 当前重点：**TypeScript + React + Next.js 项目开发**
+- 🧩 使用 AI 辅助开发，提高编码与重构效率
+- 🌱 深入前端工程化与状态管理体系设计
+- 🧠 对前端架构（状态流、组件拆分、性能优化）持续探索
+- 🎣 不写代码时：钓鱼 / 思考系统 / 看水发呆
+- 💬 欢迎交流：前端架构 / React生态 / AI开发工具链
 
 ---
 
 ## ⚙️ 技术栈
 
-### 🎨 前端技术
+### 🎨 前端核心
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
+### 🧠 状态管理体系
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-ffd859?style=for-the-badge&logo=vue.js&logoColor=black)
+![Vuex](https://img.shields.io/badge/Vuex-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ---
 
@@ -39,26 +47,31 @@
 
 ---
 
-### 🚀 工具与工程化
+### 🚀 工程化 & 工具链
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+### 🖥️ 桌面端
+
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ---
 
 ## 📊 GitHub 数据统计
 
-| 📈 我的 GitHub 状态 | 🧠 常用编程语言 |
-|---------------------|----------------|
+| 📈 GitHub 状态 | 🧠 语言占比 |
+|---------------|-------------|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=PenterZhang&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenterZhang&layout=compact&theme=tokyonight) |
 
 ---
 
 ## 🔥 活跃记录
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PenterZhang&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=PenterZhang&theme=tokyonight)
 
 ---
 
@@ -68,18 +81,18 @@
 
 ---
 
-## 🧭 我的一点理解
+## 🧭 我的理解
 
-> “代码只是工具，真正重要的是解决问题的思路。”
+> “前端不是堆技术，而是设计数据流与用户体验的系统工程。”
 
 ---
 
 ## 🎣 工作之外
 
-- 🎣 钓鱼（稳定心态）
-- ☕ 思考技术架构
-- 🧠 AI 工具实验
-- 🔧 把复杂问题拆成简单模块
+- 🎣 钓鱼（让思维慢下来）
+- ☕ 思考架构与设计模式
+- 🧠 AI 工具链实验
+- 🔧 拆解复杂问题为可控模块
 
 ---
 
@@ -89,4 +102,4 @@
 
 ---
 
-⭐ 如果你觉得这个主页还不错，可以给个 Star，谢谢～
+⭐ 如果你喜欢这个主页，可以点个 Star 支持一下～
