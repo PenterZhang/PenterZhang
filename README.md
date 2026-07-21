@@ -21,47 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PenterZhang&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenterZhang&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PenterZhang&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PenterZhang/PenterZhang/output/snake.svg" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/PenterZhang">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PenterZhang&repo=callStudentPro&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/PenterZhang">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PenterZhang&repo=countUp.js&theme=tokyonight"/>
-</a>
-
-</p>
-
----
-
 ## 🧬 About Me
 
 ```ts
